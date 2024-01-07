@@ -1,7 +1,4 @@
 
-
-
-
 【央视】,#genre#
 CCTV-1 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -389,48 +386,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
-埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
-埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
-埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
-埋堆堆5,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
-埋堆堆6,http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
-埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
-埋堆堆9,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
-埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
-埋堆堆23,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
-埋堆堆28,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
-埋堆堆30,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
-埋堆堆38,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
-埋堆堆42,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
-埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
-埋堆堆49,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
-埋堆堆54,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
-埋堆堆56,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
-埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
-
-HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-豆瓣高分,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800558
-喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
-票房电影,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_184_600_t10/c56_lb_184_600_t10.m3u8
-抗战剧场,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_163_600_t10/c54_lb_163_600_t10.m3u8
-军事观察,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_239_720P_t10/c57_lb_239_720P_t10.m3u8
-糖豆广场舞,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_235_600_t10/c56_lb_235_600_t10.m3u8
-怀旧剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c51_lb_109_600_t10/c51_lb_109_600_t10.m3u8
-谍战剧场,http://111.48.50.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8
-
-
-士兵突击,http://tx.flv.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.flv?wsSecret=c35ee2ffbce3046c8e49f60139979208&wsTime=61c072a8&uid=581998485&seqid=1640520616000.0&t=103&uuid=3032381390&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-地下交通站,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.flv?wsSecret=e0e885fb33da8bcaef2f7098bb5ff23f&wsTime=61c072a4&uid=581998485&seqid=1640520620000.0&t=103&uuid=3036094092&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-康熙微服私访记,http://tx.flv.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.flv?wsSecret=ea31e98767cb86af25e5a8195a41226c&wsTime=61c07294&uid=581998485&seqid=1640520618000.0&t=103&uuid=3033579190&ver=1&ctype=tars_mobile&sv=2110211124&ratio=2000
-权力的游戏,https://epg.112114.xyz/huya/17943364
-天雷滚滚,https://epg.112114.xyz/huya/11352945
-林正英,http://al.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?wsSecret=34703f099ef2c4cf7408aa5aabf37815&wsTime=62f37b20&u=0&seqid=16600375360726170&ctype=tars_mp&txyp=o%3Awx91%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&exsphd=264_500
-刘德华,http://al.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv?wsSecret=a881c0a0a9a25574ccf1e0243ae557fd&wsTime=62f3b3aa&u=0&seqid=16600520102554650&ctype=tars_mp&txyp=o%3Az16%3B&fs=bgct&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*&t=102
-
-
 
 
 
@@ -457,14 +412,3 @@ NewTv明星大片「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e
 CHC动作电影「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-SiTV五星体育「IPV6」,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
-SiTV东方财经「IPV6」•支持回看,http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
-SiTV欢笑剧场「IPV6」•支持回看,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226323/index.m3u8
-SiTV法治天地「IPV6」•支持回看,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226340/index.m3u8
-SiTV魅力足球「IPV6」•支持回看,http://[2409:8087:4402:20:1:1216:401:2b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
-SiTV乐游「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw693544055_1408872340/ott.mobaibox.com/PLTV/3/224/3221227771/index.m3u8
-SiTV动漫秀场「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw810856213_665642662/ott.mobaibox.com/PLTV/3/224/3221227774/index.m3u8
-SiTV游戏风云「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw894957216_-1133603163/ott.mobaibox.com/PLTV/3/224/3221227713/index.m3u8
-SiTV生活时尚「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw982225711_-1273501347/ott.mobaibox.com/PLTV/3/224/3221227707/index.m3u8
-SiTV都市剧场「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1137773902_-1434406268/ott.mobaibox.com/PLTV/3/224/3221227710/index.m3u8
-SiTV金色学堂「IPV6」•支持回看,http://[2409:8087:4402:20:1:1216:401:3c]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226332/index.m3u8
