@@ -1,5 +1,5 @@
 
-【央视】、#genre#
+【央视】,#genre#
 CCTV-1 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
@@ -47,7 +47,7 @@ CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 
 
 
-卫视频道，#genre#
+卫视频道,#genre#
 北京卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 北京卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 湖南卫视 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
@@ -240,7 +240,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 
 
 
-电影频道，#genre#
+电影频道,#genre#
 
 恐怖故事,https://www.goodiptv.club/douyu/2337939
 恐怖故事,http://maomao.kandiantv.cn/douyu1.php?id=2337939
@@ -308,7 +308,7 @@ CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m
 卡面来打?,http://epg.112114.xyz/douyu/1218414
 
 
-IPV6专区，#genre#
+IPV6专区,#genre#
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV-2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
